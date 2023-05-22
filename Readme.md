@@ -1,3 +1,14 @@
+สวัสดีครับ ชื่อบูมนะครับ มีประสบการณ์ในสายงาน Data analyst มากว่า 2 ปี  ซึ่งใช้ Python เป็นทุนเดิมอยู่แล้ว มีใช้ SQL บ้าง สามารถเขียนได้ไม่มีปัญหา 
+
+ตอนนี้กำลังมุ่งพัฒนาในส่วนที่เกี่ยวข้องคือ Django  
+
+ใช้ Database เป็น Mysql 
+
+Frontend เป็น HTML5+ CSS เอาจริงๆ ใช้ ChatGPT เขียนซะส่วนมาก ในส่วน Frontend อันไหนไม่ถูกใจค่อยมาปรับ 
+
+
+
+
 This Project Analysis from raw date in csv files 
 
 the data is raw of transaction in relate from e-commerce company in logistic department 
